@@ -14,6 +14,24 @@ This repository serves as documentation for all code written for mission analysi
 | Complete Presentation | 9/21 at 11:59 PM |
 
 ---
+# Repository Organization
+
+Each mission subsystem will have its own folder. All relevant analysis, code, documentation, and supporting files for that subsystem should be placed in its respective folder.
+
+The **AAE 450 Master Sheet.xlsx** contains all current mission values and parameters and serves as the primary reference for the entire team.
+
+- Use **AAE 450 Master Sheet.xlsx** as the reference for mission values and parameters.
+- Whenever a mission parameter or value changes, update it in the Master Sheet.
+- Keep all subsystem files organized within their respective folders.
+- Ensure analysis and documentation remain consistent with the latest values in the Master Sheet.
+
+# Analysis Documentation
+
+All analysis code will be documented in this repository. Code should include sufficient documentation to:
+
+- Identify the purpose of each analysis.
+- Define relevant mission parameters and assumptions.
+- Document analysis results and conclusions.
 
 # Mission Requirements
 
@@ -46,10 +64,4 @@ This repository serves as documentation for all code written for mission analysi
 
 ---
 
-# Analysis Documentation
 
-All analysis code will be documented in this repository. Code should include sufficient documentation to:
-
-- Identify the purpose of each analysis.
-- Define relevant mission parameters and assumptions.
-- Document analysis results and conclusions.
