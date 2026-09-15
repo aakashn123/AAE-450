@@ -52,6 +52,4 @@ All analysis code will be documented in this repository. Code should include suf
 
 - Identify the purpose of each analysis.
 - Define relevant mission parameters and assumptions.
-- Track changes to mission parameters.
 - Document analysis results and conclusions.
-- Provide traceability between mission requirements and analysis.
