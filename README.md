@@ -1,3 +1,2 @@
 # AAE-450
-
-For all code and calculated values
+For documentation of all the code written for analysis and to keep track of mission parameters
