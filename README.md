@@ -5,12 +5,12 @@ This repository serves as documentation for all code written for mission analysi
 
 ---
 
-## Schedule
+## Schedule for week 5 presentation
 
 | Milestone | Deadline |
 |---|---|
 | Standardize Cost and Risk definitions | 9/15 at 11:59 PM |
-| Complete Individual Work | 9/19 |
+| Complete Individual Work | 9/19 at 11:59 PM|
 | Complete Presentation | 9/21 at 11:59 PM |
 
 ---
