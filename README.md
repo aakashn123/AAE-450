@@ -33,6 +33,25 @@ All analysis code will be documented in this repository. Code should include suf
 - Define relevant mission parameters and assumptions.
 - Document analysis results and conclusions.
 
+
+## Risk Assessment
+
+Risk is based on **likelihood** and **consequence**:
+
+$$
+\text{Risk} = \text{Likelihood} \times \text{Consequence}
+$$
+
+Each is scored from **1–5**, giving a total risk score from **1–25**.
+
+| Factor | Description |
+|---|---|
+| **Likelihood (1–5)** | How likely is the failure to occur? |
+| **Consequence (1–5)** | How serious is the impact if it occurs? |
+
+The same criteria will be used for every design option so they can be compared consistently. The risk score is a relative score for comparing design choices, not an actual probability of failure.
+
+
 # Mission Requirements
 
 ## Top-Level Requirements
